@@ -3,7 +3,7 @@ shavl
 **building systems from bare metal**  
 kernel development • x86 internals • osdev | linux internals • security research • reverse engineering | Vulnerability research
 
-[**Read my technical portfolio**](https://s-havl.github.io/) (In development)
+[**Read my technical portfolio**](https://s-havl.github.io/portfolio/) (In development)
 
 ```console
 I started with Luau scripting and evolved into
