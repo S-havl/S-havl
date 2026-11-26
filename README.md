@@ -1,13 +1,13 @@
 shavl
 
 **building systems from bare metal**  
-kernel development • x86 internals • osdev | linux internals • security research • reverse engineering | Vulnerability research
+kernel development • x86-64 internals • osdev | linux internals • security research • reverse engineering | Vulnerability research
 
 [**Read my technical portfolio**](https://s-havl.github.io/portfolio/)
 
 ```console
 I started with Luau scripting and evolved into
-bare-metal systems, memory management and OSDev.
+bare-metal systems, OSDev and Vulnerability Research.
 ```
 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,bash,robloxstudio,linux,vim,git,github"/>
